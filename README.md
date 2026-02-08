@@ -1,4 +1,4 @@
-# Noodules - Award-Winning 3D Parasite Learning Platform
+# Noodules -3D Parasite Learning Platform
 
 ![Noodules Banner](https://via.placeholder.com/1200x400?text=Noodules+Learning+Platform)
 
