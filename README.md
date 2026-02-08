@@ -7,11 +7,22 @@
 Noodules is a cutting-edge educational platform designed to revolutionize how biomedical students learn parasitology. With immersive 3D visualization, intelligent learning tools, and collaborative features, Noodules makes complex parasite biology intuitive and engaging.
 
 ### ✨ Key Features
+##
+![alt text](image.png)
+![alt text](image-1.png)
 
 - **Interactive 3D Models**: Explore parasites from every angle with realistic, manipulable 3D structures
+![alt text](image-2.png)
+
 - **Smart Learning Tools**: Adaptive flashcards, intelligent quizzes, and spaced repetition
+![alt text](image-3.png)
+
 - **Progress Analytics**: Track your learning with detailed performance metrics
+![alt text](image-4.png)
+
 - **Collaborative Learning**: Join study groups, participate in forums, and learn together
+![alt text](image-5.png)
+
 - **Offline Access**: Download content and study without internet
 - **Cross-Platform**: Seamless experience on web, mobile, and desktop
 - **Premium Design**: Award-winning UI with smooth animations and modern aesthetics
